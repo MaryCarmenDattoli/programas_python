@@ -1,0 +1,9 @@
+Este es un registro de actividades
+=================================
+Autor: María del Carmen Dattoli
+Fecha: 2025-09-10
+
+2025-09-10 19:02 Creación de archivo Logs
+2025-09-10 19:02 Creaci�n de archivo gr�ficos.py
+2025-09-17 19:02 Creaci�n de archivo res_estadistico.py
+2025-09-17 19:02 Creacion de archivo saludo.py

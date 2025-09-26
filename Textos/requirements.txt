@@ -1,0 +1,11 @@
+pandas
+numpy
+requests
+Pillow==10.0.1
+pylint
+pytest
+matplotlib
+streamlit
+plotly
+plotly-express
+scipy

@@ -1,0 +1,6 @@
+this is the text
+that I want to save
+into this file
+Se usa i para entrar en el modo de edicion del comando i
+luego usamos esc para salir al modo comando
+y ahí usamos :wq para guardar y salir 
